@@ -1,1 +1,1 @@
-# 2binfo_A
+Estudos e testes de mobile feitos no Android Studio
